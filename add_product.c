@@ -1,3 +1,4 @@
+// add_product.c
 #include "inventory.h"
 
 void displayProductHeader(void)
