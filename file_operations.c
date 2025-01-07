@@ -1,3 +1,4 @@
+// file_operations.c - File operations for saving and loading data
 #include "inventory.h"
 
 int saveData(void)
