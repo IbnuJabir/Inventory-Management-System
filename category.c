@@ -1,3 +1,4 @@
+// category.c
 #include "inventory.h"
 
 Category categories[MAX_CATEGORIES];
