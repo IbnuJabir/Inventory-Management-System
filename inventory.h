@@ -1,3 +1,4 @@
+// inventory.h - Header file for inventory management system
 #ifndef INVENTORY_H
 #define INVENTORY_H
 
