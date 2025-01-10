@@ -1,3 +1,4 @@
+// list_products.c - list all products in the inventory
 #include "inventory.h"
 
 void listAllProducts(void)
