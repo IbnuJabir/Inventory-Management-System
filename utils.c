@@ -1,3 +1,4 @@
+// utils.c
 #include "inventory.h"
 
 void clearInputBuffer(void)
