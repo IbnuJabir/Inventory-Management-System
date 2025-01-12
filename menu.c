@@ -1,3 +1,4 @@
+// menu.c
 #include "inventory.h"
 
 void displayMenu(void)
